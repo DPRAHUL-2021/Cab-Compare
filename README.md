@@ -29,6 +29,7 @@ CabCompare is a modern web application that allows users to compare cab fares, E
 4. Open the app in your browser at http://localhost:3000
 
 ## Project Structure
+```
 /cabcompare
 ├── app/
 │   ├── (dashboard)/
@@ -43,6 +44,7 @@ CabCompare is a modern web application that allows users to compare cab fares, E
 ├── lib/     # Utilities and hooks
 ├── styles/  # Global CSS
 └── public/  # Static assets
+```
 
 ## Scripts
 
